@@ -1,0 +1,14 @@
+﻿body {
+    background-color: #fafafa;
+}
+
+.tba-navbar {
+    background-color: #708090;
+}
+.tba-navbar a {
+    color: #fafafa;
+}
+
+.tba-main {
+    border: 1px solid green;
+}
